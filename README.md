@@ -12,3 +12,11 @@ Realistic cloth simulation is important in many fileds such as film industry, co
 - Lighting
 - Camera control
 - Collision (simple)
+- Drag by mouse
+
+# Environment
+- Visual Studio
+- QT
+- OpenGl (Glad)
+- GLM (for math computation)
+- Eigen (solve sparse linear equations)
