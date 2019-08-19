@@ -1,5 +1,5 @@
 # ClothSimulation
-An implicit Euler method for cloth simulation
+An implicit Euler method for cloth simulation, video demo can be found [here](https://github.com/hietwll/ClothSimulation/tree/master/ClothSimulation/Resources/images/media).
 <img src="ClothSimulation/Resources/images/media/cloth.jpeg" with="800">
 
 
