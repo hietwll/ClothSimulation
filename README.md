@@ -4,7 +4,7 @@ An implicit Euler method for cloth simulation, video demo can be found [here](ht
 
 
 ## About this project
-Realistic cloth simulation is important in many fields such as film industry, computer game and VR shopping. In this project, an implicit Euler method is implemented to integrate the mass-spring system. Compared to explicit method, implicit method is more stable and requires smaller time step. 
+Realistic cloth simulation is important in many fields such as film industry, computer game and VR shopping. In this project, an implicit Euler method is implemented to integrate the mass-spring system. Compared to explicit method, implicit method is more stable and allows larger time step. 
 
 ## Features
 - Strain constraint
